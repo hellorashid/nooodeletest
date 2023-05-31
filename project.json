@@ -1,5 +1,5 @@
 {
-    "name": "Project Template - Hello World",
+    "name": "hi",
     "components": [
         {
             "name": "/App",
@@ -94,7 +94,7 @@
                                     "alignY": "center",
                                     "textAlignX": "center",
                                     "textStyle": "Display",
-                                    "text": "Hello World!"
+                                    "text": "Hello World! D: "
                                 },
                                 "ports": [],
                                 "dynamicports": [],
@@ -123,7 +123,6 @@
     "rootNodeId": "246f9453-a119-ac78-171e-3806cf596ecc",
     "version": "4",
     "metadata": {
-        "dbCollections": [],
         "styles": {
             "text": {
                 "Display": {
